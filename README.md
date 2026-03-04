@@ -1,2 +1,3 @@
 # flower-classification-transfer-learning
-A transfer learning coursework project
+How does fine-tuning depth interact with training duration
+in transfer learning for small datasets?
