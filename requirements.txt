@@ -1,4 +1,5 @@
 tensorflow-macos
 tensorflow-metal
+tensorflow
 matplotlib
 numpy
